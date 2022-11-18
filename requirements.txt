@@ -1,0 +1,5 @@
+#pip install tk
+#pip install png
+#pip install pyqrcode
+
+##Python 3.8.10 suggested for error free experience
