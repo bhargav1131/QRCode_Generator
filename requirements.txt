@@ -3,3 +3,4 @@
 #pip install pyqrcode
 
 ##Python 3.8.10 suggested for error free experience
+# Run Start_page.py first
